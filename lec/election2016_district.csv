@@ -1,0 +1,436 @@
+District,Median Income,Percent voting for Clinton
+"Congressional District (at Large), Alaska",76440,37.6
+"Congressional District (at Large), Delaware",61757,53.4
+"Congressional District (at Large), Montana",50027,35.9
+"Congressional District (at Large), North Dakota",60656,27.7
+"Congressional District (at Large), South Dakota",54467,31.7
+"Congressional District (at Large), Vermont",57677,56.7
+"Congressional District (at Large), Wyoming",59882,22.5
+"Congressional District 1, Alabama",47083,34.1
+"Congressional District 1, Arizona",50537,46.6
+"Congressional District 1, Arkansas",40492,30.2
+"Congressional District 1, California",47488,36.5
+"Congressional District 1, Colorado",62718,69.0
+"Congressional District 1, Connecticut",70215,59.4
+"Congressional District 1, Florida",53006,28.2
+"Congressional District 1, Georgia",50931,40.9
+"Congressional District 1, Hawaii",78180,63.1
+"Congressional District 1, Idaho",52199,25.4
+"Congressional District 1, Illinois",50523,75.4
+"Congressional District 1, Indiana",56370,54.1
+"Congressional District 1, Iowa",57402,45.2
+"Congressional District 1, Kansas",48156,24.3
+"Congressional District 1, Kentucky",40253,23.9
+"Congressional District 1, Louisiana",56938,26.7
+"Congressional District 1, Maine",61173,54.1
+"Congressional District 1, Maryland",69254,33.4
+"Congressional District 1, Massachusetts",55716,57.2
+"Congressional District 1, Michigan",46927,36.6
+"Congressional District 1, Minnesota",60424,38.4
+"Congressional District 1, Mississippi",43194,32.4
+"Congressional District 1, Missouri",45172,77.0
+"Congressional District 1, Nebraska",58537,36.2
+"Congressional District 1, Nevada",38000,61.6
+"Congressional District 1, New Hampshire",71277,46.6
+"Congressional District 1, New Jersey",68208,60.6
+"Congressional District 1, New Mexico",49570,51.6
+"Congressional District 1, New York",90435,42.2
+"Congressional District 1, North Carolina",40895,67.5
+"Congressional District 1, Ohio",55712,44.6
+"Congressional District 1, Oklahoma",52319,32.7
+"Congressional District 1, Oregon",72097,57.3
+"Congressional District 1, Pennsylvania",45025,49.1
+"Congressional District 1, Rhode Island",56547,60.5
+"Congressional District 1, South Carolina",64973,40.4
+"Congressional District 1, Tennessee",41006,19.7
+"Congressional District 1, Texas",45313,25.3
+"Congressional District 1, Utah",65896,22.4
+"Congressional District 1, Virginia",81338,41.2
+"Congressional District 1, Washington",91018,54.1
+"Congressional District 1, West Virginia",45611,26.4
+"Congressional District 1, Wisconsin",61589,42.3
+"Congressional District 10, California",60235,48.5
+"Congressional District 10, Florida",50151,61.8
+"Congressional District 10, Georgia",51532,35.8
+"Congressional District 10, Illinois",74971,62.0
+"Congressional District 10, Michigan",60934,31.6
+"Congressional District 10, New Jersey",50100,85.2
+"Congressional District 10, New York",85756,78.3
+"Congressional District 10, North Carolina",46508,36.4
+"Congressional District 10, Ohio",49988,44.0
+"Congressional District 10, Pennsylvania",52199,43.4
+"Congressional District 10, Texas",73476,43.2
+"Congressional District 10, Virginia",120384,52.2
+"Congressional District 10, Washington",62206,51.3
+"Congressional District 11, California",86000,71.5
+"Congressional District 11, Florida",43610,32.5
+"Congressional District 11, Georgia",69610,35.3
+"Congressional District 11, Illinois",72198,58.9
+"Congressional District 11, Michigan",79805,45.3
+"Congressional District 11, New Jersey",108260,47.9
+"Congressional District 11, New York",71072,43.8
+"Congressional District 11, North Carolina",43855,34.0
+"Congressional District 11, Ohio",35735,80.5
+"Congressional District 11, Pennsylvania",53833,34.7
+"Congressional District 11, Texas",50602,19.1
+"Congressional District 11, Virginia",106554,66.9
+"Congressional District 12, California",105918,86.2
+"Congressional District 12, Florida",49774,38.8
+"Congressional District 12, Georgia",43933,40.7
+"Congressional District 12, Illinois",47430,40.2
+"Congressional District 12, Michigan",55506,60.8
+"Congressional District 12, New Jersey",85744,65.0
+"Congressional District 12, New York",100281,83.3
+"Congressional District 12, North Carolina",59268,68.4
+"Congressional District 12, Ohio",67415,41.9
+"Congressional District 12, Pennsylvania",60387,29.7
+"Congressional District 12, Texas",62214,32.7
+"Congressional District 13, California",73601,87.4
+"Congressional District 13, Florida",48519,49.6
+"Congressional District 13, Georgia",57342,71.0
+"Congressional District 13, Illinois",49758,44.2
+"Congressional District 13, Michigan",33995,78.8
+"Congressional District 13, New York",41103,92.3
+"Congressional District 13, North Carolina",47440,44.0
+"Congressional District 13, Ohio",42430,51.1
+"Congressional District 13, Pennsylvania",60105,25.5
+"Congressional District 13, Texas",50150,16.9
+"Congressional District 14, California",103850,76.9
+"Congressional District 14, Florida",51410,57.2
+"Congressional District 14, Georgia",48691,22.1
+"Congressional District 14, Illinois",90345,44.8
+"Congressional District 14, Michigan",42695,79.2
+"Congressional District 14, New York",53512,77.7
+"Congressional District 14, Ohio",63362,42.1
+"Congressional District 14, Pennsylvania",44939,33.9
+"Congressional District 14, Texas",58103,38.4
+"Congressional District 15, California",106291,69.9
+"Congressional District 15, Florida",53784,43.1
+"Congressional District 15, Illinois",49927,24.5
+"Congressional District 15, New York",29234,93.8
+"Congressional District 15, Ohio",61514,39.9
+"Congressional District 15, Pennsylvania",62755,26.5
+"Congressional District 15, Texas",41947,56.7
+"Congressional District 16, California",40207,58.0
+"Congressional District 16, Florida",55447,43.0
+"Congressional District 16, Illinois",57182,38.3
+"Congressional District 16, New York",69086,75.1
+"Congressional District 16, Ohio",64197,39.5
+"Congressional District 16, Pennsylvania",57144,37.9
+"Congressional District 16, Texas",44045,67.9
+"Congressional District 17, California",121150,73.9
+"Congressional District 17, Florida",45508,35.0
+"Congressional District 17, Illinois",45360,46.7
+"Congressional District 17, New York",94451,58.6
+"Congressional District 17, Pennsylvania",51635,46.8
+"Congressional District 17, Texas",50888,38.8
+"Congressional District 18, California",125790,73.4
+"Congressional District 18, Florida",54913,44.1
+"Congressional District 18, Illinois",60857,33.3
+"Congressional District 18, New York",80493,47.1
+"Congressional District 18, Pennsylvania",63825,62.1
+"Congressional District 18, Texas",42662,76.5
+"Congressional District 19, California",93139,72.9
+"Congressional District 19, Florida",54812,37.5
+"Congressional District 19, New York",59619,44.0
+"Congressional District 19, Texas",47875,23.5
+"Congressional District 2, Alabama",42035,33.0
+"Congressional District 2, Arizona",49072,49.6
+"Congressional District 2, Arkansas",49498,41.7
+"Congressional District 2, California",66604,69.0
+"Congressional District 2, Colorado",75659,56.2
+"Congressional District 2, Connecticut",74784,48.7
+"Congressional District 2, Florida",46062,30.6
+"Congressional District 2, Georgia",35617,55.0
+"Congressional District 2, Hawaii",70867,61.4
+"Congressional District 2, Idaho",51294,29.8
+"Congressional District 2, Illinois",48417,78.0
+"Congressional District 2, Indiana",51292,36.1
+"Congressional District 2, Iowa",52150,45.0
+"Congressional District 2, Kansas",51778,37.4
+"Congressional District 2, Kentucky",49960,27.6
+"Congressional District 2, Louisiana",36798,74.6
+"Congressional District 2, Maine",46638,41.1
+"Congressional District 2, Maryland",69128,60.1
+"Congressional District 2, Massachusetts",64868,56.2
+"Congressional District 2, Michigan",52919,38.2
+"Congressional District 2, Minnesota",80128,45.3
+"Congressional District 2, Mississippi",34392,63.6
+"Congressional District 2, Missouri",79724,42.3
+"Congressional District 2, Nebraska",62621,46.0
+"Congressional District 2, Nevada",58214,39.7
+"Congressional District 2, New Hampshire",70524,48.6
+"Congressional District 2, New Jersey",60756,46.0
+"Congressional District 2, New Mexico",41797,39.9
+"Congressional District 2, New York",93362,43.9
+"Congressional District 2, North Carolina",65792,43.6
+"Congressional District 2, Ohio",55472,39.7
+"Congressional District 2, Oklahoma",40770,22.8
+"Congressional District 2, Oregon",49837,36.4
+"Congressional District 2, Pennsylvania",41320,72.9
+"Congressional District 2, Rhode Island",63976,51.1
+"Congressional District 2, South Carolina",57253,38.6
+"Congressional District 2, Tennessee",50701,29.7
+"Congressional District 2, Texas",72711,43.1
+"Congressional District 2, Utah",60700,32.0
+"Congressional District 2, Virginia",66953,45.4
+"Congressional District 2, Washington",65187,56.9
+"Congressional District 2, West Virginia",48358,29.4
+"Congressional District 2, Wisconsin",65589,65.8
+"Congressional District 20, California",67419,70.4
+"Congressional District 20, Florida",43677,80.2
+"Congressional District 20, New York",64226,54.0
+"Congressional District 20, Texas",49421,61.0
+"Congressional District 21, California",41174,55.2
+"Congressional District 21, Florida",55864,58.6
+"Congressional District 21, New York",52350,40.0
+"Congressional District 21, Texas",68987,42.5
+"Congressional District 22, California",56524,42.6
+"Congressional District 22, Florida",60159,56.8
+"Congressional District 22, New York",52967,39.3
+"Congressional District 22, Texas",87901,44.2
+"Congressional District 23, California",54437,36.1
+"Congressional District 23, Florida",61513,61.9
+"Congressional District 23, New York",48730,39.7
+"Congressional District 23, Texas",51293,49.8
+"Congressional District 24, California",68929,56.7
+"Congressional District 24, Florida",38441,82.9
+"Congressional District 24, New York",56388,48.9
+"Congressional District 24, Texas",70454,44.5
+"Congressional District 25, California",75367,50.3
+"Congressional District 25, Florida",46247,47.9
+"Congressional District 25, New York",53723,55.5
+"Congressional District 25, Texas",69083,40.2
+"Congressional District 26, California",76914,57.9
+"Congressional District 26, Florida",54453,56.8
+"Congressional District 26, New York",47358,57.6
+"Congressional District 26, Texas",87272,34.4
+"Congressional District 27, California",71223,66.0
+"Congressional District 27, Florida",51958,58.5
+"Congressional District 27, New York",62698,35.2
+"Congressional District 27, Texas",53047,36.5
+"Congressional District 28, California",63940,72.1
+"Congressional District 28, Texas",44021,58.3
+"Congressional District 29, California",50655,77.7
+"Congressional District 29, Texas",41737,71.1
+"Congressional District 3, Alabama",46544,32.3
+"Congressional District 3, Arizona",44224,62.4
+"Congressional District 3, Arkansas",47903,30.5
+"Congressional District 3, California",61508,53.0
+"Congressional District 3, Colorado",50817,40.0
+"Congressional District 3, Connecticut",67774,55.9
+"Congressional District 3, Florida",45970,40.2
+"Congressional District 3, Georgia",56240,32.8
+"Congressional District 3, Illinois",66270,55.2
+"Congressional District 3, Indiana",51453,30.1
+"Congressional District 3, Iowa",62323,45.0
+"Congressional District 3, Kansas",71562,47.2
+"Congressional District 3, Kentucky",51070,54.9
+"Congressional District 3, Louisiana",44668,29.2
+"Congressional District 3, Maryland",83620,62.8
+"Congressional District 3, Massachusetts",77995,58.2
+"Congressional District 3, Michigan",57926,42.2
+"Congressional District 3, Minnesota",84689,50.8
+"Congressional District 3, Mississippi",45115,36.8
+"Congressional District 3, Missouri",61929,28.1
+"Congressional District 3, Nebraska",50985,20.0
+"Congressional District 3, Nevada",68396,46.5
+"Congressional District 3, New Jersey",74537,45.2
+"Congressional District 3, New Mexico",49210,51.8
+"Congressional District 3, New York",111504,51.6
+"Congressional District 3, North Carolina",47565,36.9
+"Congressional District 3, Ohio",45860,67.0
+"Congressional District 3, Oklahoma",47724,20.9
+"Congressional District 3, Oregon",63231,70.7
+"Congressional District 3, Pennsylvania",51289,90.9
+"Congressional District 3, South Carolina",45042,29.0
+"Congressional District 3, Tennessee",43938,30.2
+"Congressional District 3, Texas",88619,40.6
+"Congressional District 3, Utah",70763,23.3
+"Congressional District 3, Virginia",51794,63.6
+"Congressional District 3, Washington",61304,42.5
+"Congressional District 3, West Virginia",37728,23.3
+"Congressional District 3, Wisconsin",52154,44.8
+"Congressional District 30, California",76778,69.1
+"Congressional District 30, Texas",44689,79.1
+"Congressional District 31, California",58668,57.7
+"Congressional District 31, Texas",69228,40.8
+"Congressional District 32, California",67101,66.6
+"Congressional District 32, Texas",70119,48.5
+"Congressional District 33, California",101956,67.8
+"Congressional District 33, Texas",38445,72.9
+"Congressional District 34, California",40847,83.6
+"Congressional District 34, Texas",37989,59.2
+"Congressional District 35, California",57159,67.7
+"Congressional District 35, Texas",48490,64.1
+"Congressional District 36, California",44567,52.2
+"Congressional District 36, Texas",58984,25.2
+"Congressional District 37, California",55190,85.7
+"Congressional District 38, California",66421,67.0
+"Congressional District 39, California",85188,51.5
+"Congressional District 4, Alabama",41110,17.4
+"Congressional District 4, Arizona",49466,27.5
+"Congressional District 4, Arkansas",39586,31.3
+"Congressional District 4, California",74074,39.3
+"Congressional District 4, Colorado",67878,34.3
+"Congressional District 4, Connecticut",94862,59.6
+"Congressional District 4, Florida",68229,34.1
+"Congressional District 4, Georgia",51686,75.3
+"Congressional District 4, Illinois",51383,82.1
+"Congressional District 4, Indiana",53996,30.2
+"Congressional District 4, Iowa",53335,33.5
+"Congressional District 4, Kansas",52054,33.0
+"Congressional District 4, Kentucky",60912,29.3
+"Congressional District 4, Louisiana",39748,36.6
+"Congressional District 4, Maryland",79350,77.2
+"Congressional District 4, Massachusetts",98530,59.2
+"Congressional District 4, Michigan",48434,34.7
+"Congressional District 4, Minnesota",66175,61.5
+"Congressional District 4, Mississippi",45192,28.2
+"Congressional District 4, Missouri",48065,29.3
+"Congressional District 4, Nevada",55712,49.5
+"Congressional District 4, New Jersey",78511,41.0
+"Congressional District 4, New York",100178,53.4
+"Congressional District 4, North Carolina",70587,68.2
+"Congressional District 4, Ohio",52632,30.7
+"Congressional District 4, Oklahoma",55183,28.3
+"Congressional District 4, Oregon",46749,46.1
+"Congressional District 4, Pennsylvania",61333,57.8
+"Congressional District 4, South Carolina",51718,34.5
+"Congressional District 4, Tennessee",50598,27.4
+"Congressional District 4, Texas",52481,21.8
+"Congressional District 4, Utah",68711,32.4
+"Congressional District 4, Virginia",54607,58.7
+"Congressional District 4, Washington",52484,35.1
+"Congressional District 4, Wisconsin",41816,74.0
+"Congressional District 40, California",42902,82.2
+"Congressional District 41, California",62069,61.0
+"Congressional District 42, California",76504,41.4
+"Congressional District 43, California",54614,78.4
+"Congressional District 44, California",50890,83.0
+"Congressional District 45, California",97356,49.8
+"Congressional District 46, California",61304,66.3
+"Congressional District 47, California",65450,62.6
+"Congressional District 48, California",88903,47.9
+"Congressional District 49, California",80877,50.7
+"Congressional District 5, Alabama",51690,31.3
+"Congressional District 5, Arizona",71693,36.5
+"Congressional District 5, California",73006,69.2
+"Congressional District 5, Colorado",62372,33.2
+"Congressional District 5, Connecticut",68904,49.9
+"Congressional District 5, Florida",40932,61.3
+"Congressional District 5, Georgia",48269,85.0
+"Congressional District 5, Illinois",80269,70.5
+"Congressional District 5, Indiana",67461,41.3
+"Congressional District 5, Kentucky",30585,17.5
+"Congressional District 5, Louisiana",36718,34.1
+"Congressional District 5, Maryland",95442,64.1
+"Congressional District 5, Massachusetts",92268,69.3
+"Congressional District 5, Michigan",42800,49.7
+"Congressional District 5, Minnesota",59115,73.7
+"Congressional District 5, Missouri",48693,54.1
+"Congressional District 5, New Jersey",100219,47.7
+"Congressional District 5, New York",66529,85.7
+"Congressional District 5, North Carolina",45001,39.8
+"Congressional District 5, Ohio",57171,34.6
+"Congressional District 5, Oklahoma",49616,39.8
+"Congressional District 5, Oregon",60395,48.3
+"Congressional District 5, Pennsylvania",48410,62.6
+"Congressional District 5, South Carolina",48743,38.8
+"Congressional District 5, Tennessee",54470,56.5
+"Congressional District 5, Texas",50536,34.3
+"Congressional District 5, Virginia",52237,42.3
+"Congressional District 5, Washington",51697,39.1
+"Congressional District 5, Wisconsin",68162,37.3
+"Congressional District 50, California",71692,39.6
+"Congressional District 51, California",46639,71.8
+"Congressional District 52, California",90854,58.1
+"Congressional District 53, California",69314,64.5
+"Congressional District 6, Alabama",61413,26.1
+"Congressional District 6, Arizona",67830,42.4
+"Congressional District 6, California",51932,69.2
+"Congressional District 6, Colorado",76451,50.2
+"Congressional District 6, Florida",46882,39.9
+"Congressional District 6, Georgia",87139,46.8
+"Congressional District 6, Illinois",97387,50.2
+"Congressional District 6, Indiana",51033,27.4
+"Congressional District 6, Kentucky",50659,39.4
+"Congressional District 6, Louisiana",59270,31.0
+"Congressional District 6, Maryland",75774,55.3
+"Congressional District 6, Massachusetts",84913,56.1
+"Congressional District 6, Michigan",51477,42.9
+"Congressional District 6, Minnesota",77049,33.2
+"Congressional District 6, Missouri",58532,31.7
+"Congressional District 6, New Jersey",79229,56.2
+"Congressional District 6, New York",61956,65.1
+"Congressional District 6, North Carolina",47335,41.4
+"Congressional District 6, Ohio",46839,26.7
+"Congressional District 6, Pennsylvania",82139,52.6
+"Congressional District 6, South Carolina",35296,66.8
+"Congressional District 6, Tennessee",50731,23.7
+"Congressional District 6, Texas",65758,41.9
+"Congressional District 6, Virginia",50061,34.9
+"Congressional District 6, Washington",60616,51.8
+"Congressional District 6, Wisconsin",57129,38.8
+"Congressional District 7, Alabama",34664,69.8
+"Congressional District 7, Arizona",40991,71.8
+"Congressional District 7, California",68735,52.3
+"Congressional District 7, Colorado",66063,51.4
+"Congressional District 7, Florida",57146,51.4
+"Congressional District 7, Georgia",72481,44.8
+"Congressional District 7, Illinois",54147,87.4
+"Congressional District 7, Indiana",41429,59.0
+"Congressional District 7, Maryland",61392,75.8
+"Congressional District 7, Massachusetts",60873,84.1
+"Congressional District 7, Michigan",56427,38.7
+"Congressional District 7, Minnesota",52620,31.0
+"Congressional District 7, Missouri",44619,24.7
+"Congressional District 7, New Jersey",106896,48.6
+"Congressional District 7, New York",55207,86.9
+"Congressional District 7, North Carolina",45002,39.9
+"Congressional District 7, Ohio",53374,32.8
+"Congressional District 7, Pennsylvania",85881,48.7
+"Congressional District 7, South Carolina",43146,39.1
+"Congressional District 7, Tennessee",53276,28.2
+"Congressional District 7, Texas",71183,48.5
+"Congressional District 7, Virginia",73580,44.0
+"Congressional District 7, Washington",84579,82.1
+"Congressional District 7, Wisconsin",51738,37.3
+"Congressional District 8, Arizona",61754,37.0
+"Congressional District 8, California",49194,39.6
+"Congressional District 8, Florida",50752,37.7
+"Congressional District 8, Georgia",44360,34.4
+"Congressional District 8, Illinois",67745,58.1
+"Congressional District 8, Indiana",50261,30.9
+"Congressional District 8, Maryland",98991,65.0
+"Congressional District 8, Massachusetts",82333,60.4
+"Congressional District 8, Michigan",66495,43.9
+"Congressional District 8, Minnesota",53676,38.6
+"Congressional District 8, Missouri",40639,21.0
+"Congressional District 8, New Jersey",57391,75.7
+"Congressional District 8, New York",51634,84.6
+"Congressional District 8, North Carolina",50570,41.1
+"Congressional District 8, Ohio",58213,30.6
+"Congressional District 8, Pennsylvania",80199,43.7
+"Congressional District 8, Tennessee",54145,30.7
+"Congressional District 8, Texas",64861,23.9
+"Congressional District 8, Virginia",100719,73.5
+"Congressional District 8, Washington",79516,47.7
+"Congressional District 8, Wisconsin",57888,38.6
+"Congressional District 9, Arizona",55349,54.7
+"Congressional District 9, California",61454,56.6
+"Congressional District 9, Florida",49899,54.8
+"Congressional District 9, Georgia",50154,19.3
+"Congressional District 9, Illinois",67084,70.1
+"Congressional District 9, Indiana",55078,34.2
+"Congressional District 9, Massachusetts",68173,52.5
+"Congressional District 9, Michigan",56582,51.5
+"Congressional District 9, New Jersey",64964,64.3
+"Congressional District 9, New York",54895,83.5
+"Congressional District 9, North Carolina",55913,42.8
+"Congressional District 9, Ohio",41417,58.7
+"Congressional District 9, Pennsylvania",47697,31.0
+"Congressional District 9, Tennessee",39761,77.5
+"Congressional District 9, Texas",46048,79.3
+"Congressional District 9, Virginia",41698,27.3
+"Congressional District 9, Washington",75407,70.5
