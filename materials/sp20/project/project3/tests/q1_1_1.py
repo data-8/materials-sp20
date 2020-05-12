@@ -6,6 +6,14 @@ test = {
       'cases': [
         {
           'code': r"""
+          >>> type(stemmed_message) == str
+          True
+          """,
+          'hidden': False,
+          'locked': False
+        },
+        {
+          'code': r"""
           >>> len(stemmed_message) < len('message')
           True
           """,
