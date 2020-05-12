@@ -1,0 +1,4 @@
+sex,age,group,happiness,sentiment
+Female,15,A,72,Positive
+Female,31,B,53,Negative
+Male,27,B,60,Neutral
